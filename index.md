@@ -9,7 +9,9 @@
 2. List
 
 **Bold**
+
 *Italic*
+
 `Code`
 
 [Link](url) and ![Image](src)
