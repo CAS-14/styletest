@@ -8,7 +8,9 @@
 1. Numbered
 2. List
 
-**Bold** and _Italic_ and `Code` text
+**Bold**
+*Italic*
+`Code`
 
 [Link](url) and ![Image](src)
 
